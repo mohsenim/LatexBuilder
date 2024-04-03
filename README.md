@@ -1,3 +1,5 @@
+![GitHub Actions Status](https://github.com/mohsenim/LatexBuilder/actions/workflows/main.yml/badge.svg)
+
 # Latex Builder
 
 This is a simplified version of [latex-action](https://github.com/xu-cheng/latex-action). You only need to upload your files to the `files` directory and rename the main TeX file to `main.tex`. Additionally, you should enable write permissions for GitHub Actions workflows in the repository settings.
