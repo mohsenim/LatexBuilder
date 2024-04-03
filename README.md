@@ -1,4 +1,6 @@
 ![GitHub Actions Status](https://github.com/mohsenim/LatexBuilder/actions/workflows/main.yml/badge.svg)
+![MIT - License](https://img.shields.io/pypi/l/mfdfa-toolkit)
+
 
 # Latex Builder
 
